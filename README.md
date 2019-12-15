@@ -22,4 +22,4 @@ If the application image is not [built](#building-images) yet, the Makefile trie
 
 ## Application images in this repo
 
-- [Freeplane](#https://www.freeplane.org/wiki/index.php/Home)
+- [Freeplane](https://www.freeplane.org/wiki/index.php/Home)
